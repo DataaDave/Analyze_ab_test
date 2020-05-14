@@ -5,6 +5,6 @@ This project was part of the Udacity's Nanodegree program in Data Analyst. The o
 
 Pyhton 3 and Anaconda
 
-##File Descriptions
+## File Descriptions
 
 1 notebook created in JupyterLab. File name: Analyze_ab_test_results.ipynb
