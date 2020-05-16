@@ -15,6 +15,6 @@ Pyhton 3 and Anaconda
 ## Results
 The results are available [here](https://github.com/DataaDave/Analyze_ab_test/blob/master/Analyze_ab_test_results.ipynb)
 
-##Acknowledgements
+## Acknowledgements
 
 Udacity for the course
