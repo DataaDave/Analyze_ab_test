@@ -8,3 +8,9 @@ Pyhton 3 and Anaconda
 ## File Descriptions
 
 1 notebook created in JupyterLab. File name: Analyze_ab_test_results.ipynb
+
+## Authors
+- [David Bohnhoff](https://github.com/DataaDave)
+
+## Results
+The results are available [here](https://github.com/DataaDave/Analyze_ab_test/blob/master/Analyze_ab_test_results.ipynb)
